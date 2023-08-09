@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="header">
-        <h1>Static Dashboard</h1>
+        <h1>Dashboard</h1>
       </header>
       <Dashboard />
       <footer className="footer">

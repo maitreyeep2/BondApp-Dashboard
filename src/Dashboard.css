@@ -1,0 +1,16 @@
+/* src/Dashboard.css */
+
+.Dashboard {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .chart {
+    flex: 1;
+    padding: 10px;
+    max-width: 25%;
+    box-sizing: border-box;
+  }
+  
